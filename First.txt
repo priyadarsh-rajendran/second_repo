@@ -1,1 +1,2 @@
-well this is th efirst repository in git
+thsi is the frist commit that has been created, 
+ricky likes to eat meatballs a lot
